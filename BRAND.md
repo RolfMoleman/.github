@@ -11,7 +11,7 @@ the mole hole.
 
 RolfMoleman builds reusable infrastructure patterns, automation workflows and
 developer tooling, with a particular focus on Terraform, PowerShell, Microsoft
-Azure and Azure DevOps.
+Azure, Azure DevOps and GitHub.
 
 ## Relationship to the organisation
 
