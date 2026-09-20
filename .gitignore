@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Stonehenge is a local render-time dependency. Do not redistribute it without
+# documented permission from the typeface owner.
+assets/fonts/*.ttf
+assets/fonts/*.otf
