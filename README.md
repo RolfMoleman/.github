@@ -15,7 +15,7 @@ while keeping the personal profile focused on practical platform engineering.
 ## About
 
 RolfMoleman is a platform engineer focused on Terraform, PowerShell, Microsoft
-Azure and Azure DevOps. The work here centres on reusable infrastructure,
+Azure, Azure DevOps and GitHub. The work here centres on reusable infrastructure,
 automation, developer tooling and pragmatic engineering quality.
 
 Current areas of interest include:
